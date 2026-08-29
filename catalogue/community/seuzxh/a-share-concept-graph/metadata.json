@@ -1,0 +1,14 @@
+{
+  "name": "A股概念图谱",
+  "description": "股票、行业、概念板块、财务指标与公告的量化研究本体示例：5 个实体、4 类关系。",
+  "icon": "📈",
+  "category": "finance",
+  "tags": [
+    "a-share",
+    "quant",
+    "concept",
+    "industry",
+    "finance"
+  ],
+  "author": "seuzxh"
+}
